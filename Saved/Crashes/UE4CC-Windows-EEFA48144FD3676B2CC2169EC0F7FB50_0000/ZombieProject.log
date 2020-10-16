@@ -1,0 +1,985 @@
+﻿Log file open, 09/29/20 11:12:52
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ZombieProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.095850
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.09.29-10.12.52:894][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.09.29-10.12.52:894][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.09.29-10.12.52:894][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/User1/Documents/Unreal Projects/ZombieProject/Saved/Config/Windows/Engine.ini]
+[2020.09.29-10.12.52:894][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.09.29-10.12.52:894][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/User1/Documents/Unreal Projects/ZombieProject/Saved/Config/Windows/Engine.ini]
+[2020.09.29-10.12.52:894][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/User1/Documents/Unreal Projects/ZombieProject/Saved/Config/Windows/Engine.ini]
+[2020.09.29-10.12.52:894][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.09.29-10.12.52:894][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.09.29-10.12.52:894][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.09.29-10.12.52:894][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.09.29-10.12.52:894][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.09.29-10.12.52:894][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.09.29-10.12.52:894][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.09.29-10.12.52:894][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.09.29-10.12.52:894][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.09.29-10.12.52:894][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.09.29-10.12.52:894][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.09.29-10.12.52:894][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.09.29-10.12.52:894][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.09.29-10.12.52:894][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.09.29-10.12.52:894][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/User1/Documents/Unreal Projects/ZombieProject/Saved/Config/Windows/Engine.ini]
+[2020.09.29-10.12.52:894][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.09.29-10.12.52:894][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.09.29-10.12.52:894][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.09.29-10.12.52:894][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.09.29-10.12.52:894][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.09.29-10.12.52:894][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.09.29-10.12.52:894][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.09.29-10.12.52:894][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.09.29-10.12.52:894][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.09.29-10.12.52:894][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.09.29-10.12.52:894][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.09.29-10.12.52:894][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.09.29-10.12.52:895][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.09.29-10.12.52:895][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/User1/Documents/Unreal Projects/ZombieProject/Saved/Config/Windows/Engine.ini]
+[2020.09.29-10.12.52:895][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/User1/Documents/Unreal Projects/ZombieProject/Saved/Config/Windows/Engine.ini]
+[2020.09.29-10.12.52:898][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/User1/Documents/Unreal Projects/ZombieProject/Saved/Config/Windows/Scalability.ini]
+[2020.09.29-10.12.52:898][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.09.29-10.12.52:898][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.09.29-10.12.52:898][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/User1/Documents/Unreal Projects/ZombieProject/Saved/Config/Windows/Scalability.ini]
+[2020.09.29-10.12.52:898][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.09.29-10.12.52:898][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/User1/Documents/Unreal Projects/ZombieProject/Saved/Config/Windows/Scalability.ini]
+[2020.09.29-10.12.52:898][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.09.29-10.12.52:898][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.09.29-10.12.52:898][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.09.29-10.12.52:898][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.09.29-10.12.52:898][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.09.29-10.12.52:898][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.09.29-10.12.52:898][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.09.29-10.12.52:898][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.09.29-10.12.52:898][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.09.29-10.12.52:898][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.09.29-10.12.52:898][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.09.29-10.12.52:898][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.09.29-10.12.52:898][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.09.29-10.12.52:898][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.09.29-10.12.52:898][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.09.29-10.12.52:898][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.09.29-10.12.52:898][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.09.29-10.12.52:898][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.09.29-10.12.52:898][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/User1/Documents/Unreal Projects/ZombieProject/Saved/Config/Windows/Scalability.ini]
+[2020.09.29-10.12.52:898][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.09.29-10.12.52:898][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.09.29-10.12.52:898][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.09.29-10.12.52:898][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.09.29-10.12.52:898][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.09.29-10.12.52:898][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.09.29-10.12.52:898][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.09.29-10.12.52:898][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.09.29-10.12.52:898][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.09.29-10.12.52:898][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.09.29-10.12.52:898][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.09.29-10.12.52:898][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.09.29-10.12.52:898][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.09.29-10.12.52:898][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/User1/Documents/Unreal Projects/ZombieProject/Saved/Config/Windows/Scalability.ini]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/User1/Documents/Unreal Projects/ZombieProject/Saved/Config/Windows/Scalability.ini]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/User1/Documents/Unreal Projects/ZombieProject/Saved/Config/Windows/Scalability.ini]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/User1/Documents/Unreal Projects/ZombieProject/Saved/Config/Windows/Scalability.ini]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.09.29-10.12.52:899][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.09.29-10.12.52:899][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.29-10.12.52:899][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.09.29-10.12.52:904][  0]LogHAL: Display: Platform has ~ 16 GB [17108729856 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.09.29-10.12.52:904][  0]LogInit: Going up to parent DeviceProfile []
+[2020.09.29-10.12.52:904][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/User1/Documents/Unreal Projects/ZombieProject/Saved/Config/Windows/Scalability.ini]
+[2020.09.29-10.12.52:904][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.09.29-10.12.52:904][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.09.29-10.12.52:904][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/User1/Documents/Unreal Projects/ZombieProject/Saved/Config/Windows/Scalability.ini]
+[2020.09.29-10.12.52:904][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.09.29-10.12.52:904][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/User1/Documents/Unreal Projects/ZombieProject/Saved/Config/Windows/Scalability.ini]
+[2020.09.29-10.12.52:904][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.09.29-10.12.52:904][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.09.29-10.12.52:904][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.09.29-10.12.52:904][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.09.29-10.12.52:904][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.09.29-10.12.52:904][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.09.29-10.12.52:904][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.09.29-10.12.52:904][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.09.29-10.12.52:904][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.09.29-10.12.52:904][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.09.29-10.12.52:904][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.09.29-10.12.52:904][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.09.29-10.12.52:904][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.09.29-10.12.52:904][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.09.29-10.12.52:904][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.09.29-10.12.52:904][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.09.29-10.12.52:904][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.09.29-10.12.52:904][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.09.29-10.12.52:904][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/User1/Documents/Unreal Projects/ZombieProject/Saved/Config/Windows/Scalability.ini]
+[2020.09.29-10.12.52:904][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.09.29-10.12.52:904][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.09.29-10.12.52:904][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.09.29-10.12.52:904][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.09.29-10.12.52:904][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.09.29-10.12.52:904][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.09.29-10.12.52:904][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.09.29-10.12.52:904][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.09.29-10.12.52:904][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.09.29-10.12.52:904][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.09.29-10.12.52:904][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.09.29-10.12.52:904][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.09.29-10.12.52:904][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/User1/Documents/Unreal Projects/ZombieProject/Saved/Config/Windows/Scalability.ini]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/User1/Documents/Unreal Projects/ZombieProject/Saved/Config/Windows/Scalability.ini]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/User1/Documents/Unreal Projects/ZombieProject/Saved/Config/Windows/Scalability.ini]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/User1/Documents/Unreal Projects/ZombieProject/Saved/Config/Windows/Scalability.ini]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.09.29-10.12.52:905][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.09.29-10.12.52:906][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.09.29-10.12.52:906][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.09.29-10.12.52:906][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/User1/Documents/Unreal Projects/ZombieProject/Saved/Config/Windows/Engine.ini]
+[2020.09.29-10.12.52:906][  0]LogInit: Computer: DESKTOP-U6BCLDU
+[2020.09.29-10.12.52:906][  0]LogInit: User: User1
+[2020.09.29-10.12.52:906][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.09.29-10.12.52:906][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.09.29-10.12.52:906][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.09.29-10.12.52:906][  0]LogMemory: Platform Memory Stats for Windows
+[2020.09.29-10.12.52:906][  0]LogMemory: Process Physical Memory: 104.90 MB used, 104.90 MB peak
+[2020.09.29-10.12.52:906][  0]LogMemory: Process Virtual Memory: 100.52 MB used, 100.52 MB peak
+[2020.09.29-10.12.52:906][  0]LogMemory: Physical Memory: 5075.45 MB used,  11240.70 MB free, 16316.16 MB total
+[2020.09.29-10.12.52:906][  0]LogMemory: Virtual Memory: 5137.63 MB used,  134212592.00 MB free, 134217728.00 MB total
+[2020.09.29-10.12.52:909][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.09.29-10.12.52:927][  0]LogInit: Using OS detected language (en-GB).
+[2020.09.29-10.12.52:927][  0]LogInit: Using OS detected locale (en-GB).
+[2020.09.29-10.12.52:928][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.09.29-10.12.53:098][  0]LogInit: Setting process to per monitor DPI aware
+[2020.09.29-10.12.53:130][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.09.29-10.12.53:130][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.09.29-10.12.53:278][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.09.29-10.12.53:278][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.09.29-10.12.53:278][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.09.29-10.12.53:278][  0]LogD3D11RHI: D3D11 adapters:
+[2020.09.29-10.12.53:368][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2020.09.29-10.12.53:368][  0]LogD3D11RHI:       8088/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.09.29-10.12.53:371][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.09.29-10.12.53:371][  0]LogD3D11RHI:       0/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.09.29-10.12.53:371][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.09.29-10.12.53:378][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.09.29-10.12.53:378][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2020.09.29-10.12.53:378][  0]LogWindows: EnumDisplayDevices:
+[2020.09.29-10.12.53:378][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2020.09.29-10.12.53:378][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.09.29-10.12.53:379][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.09.29-10.12.53:379][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.09.29-10.12.53:379][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.09.29-10.12.53:379][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2020.09.29-10.12.53:379][  0]LogD3D11RHI:   Driver Version: 441.20 (internal:26.21.14.4120, unified:441.20)
+[2020.09.29-10.12.53:379][  0]LogD3D11RHI:      Driver Date: 11-6-2019
+[2020.09.29-10.12.53:379][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2020.09.29-10.12.53:442][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.09.29-10.12.53:442][  0]LogD3D11RHI: Async texture creation enabled
+[2020.09.29-10.12.53:443][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061082).
+[2020.09.29-10.12.53:457][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.09.29-10.12.53:767][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.09.29-10.12.53:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.09.29-10.12.53:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.09.29-10.12.53:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.09.29-10.12.53:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.09.29-10.12.53:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.09.29-10.12.53:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.09.29-10.12.53:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.09.29-10.12.53:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.09.29-10.12.53:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.09.29-10.12.53:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.09.29-10.12.53:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.09.29-10.12.53:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.09.29-10.12.53:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.09.29-10.12.53:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.09.29-10.12.53:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.09.29-10.12.53:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.09.29-10.12.53:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.09.29-10.12.53:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.09.29-10.12.53:817][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.09.29-10.12.53:817][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.09.29-10.12.53:824][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.09.29-10.12.53:831][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.09.29-10.12.53:838][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.09.29-10.12.53:846][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.09.29-10.12.53:854][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.09.29-10.12.53:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.09.29-10.12.53:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.09.29-10.12.53:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.09.29-10.12.53:900][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.09.29-10.12.53:900][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.09.29-10.12.53:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.09.29-10.12.53:915][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.09.29-10.12.53:922][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.09.29-10.12.53:929][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.09.29-10.12.53:929][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.09.29-10.12.53:932][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.09.29-10.12.53:955][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/User1/Documents/Unreal Projects/ZombieProject/Intermediate/Shaders/WorkingDirectory/4584/).
+[2020.09.29-10.12.53:955][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User1/AppData/Local/Temp/UnrealShaderWorkingDir/98DD6F3A42BD29ACD581CB8AD26320F4/'.
+[2020.09.29-10.12.53:955][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.09.29-10.12.53:955][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.09.29-10.12.53:955][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.09.29-10.12.54:651][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.09.29-10.12.54:705][  0]LogDerivedDataCache: Loaded boot cache 0.05s 78MB C:/Users/User1/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.09.29-10.12.54:705][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User1/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.09.29-10.12.54:705][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/User1/Documents/Unreal Projects/ZombieProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.09.29-10.12.54:705][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.09.29-10.12.54:705][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/User1/Documents/Unreal Projects/ZombieProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.09.29-10.12.54:705][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.09.29-10.12.54:715][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.09.29-10.12.54:715][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.09.29-10.12.54:715][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.09.29-10.12.54:717][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.09.29-10.12.54:717][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.09.29-10.12.54:717][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.09.29-10.12.54:742][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.09.29-10.12.54:745][  0]LogSlate: Using FreeType 2.10.0
+[2020.09.29-10.12.54:745][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.09.29-10.12.54:794][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2020.09.29-10.12.55:075][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.29-10.12.55:229][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.09.29-10.12.55:229][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.09.29-10.12.55:229][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.09.29-10.12.55:229][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.09.29-10.12.55:229][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.09.29-10.12.55:241][  0]LogNetVersion: ZombieProject 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 4022535454)
+[2020.09.29-10.12.56:245][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.066376 seconds
+[2020.09.29-10.12.56:253][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.09.29-10.12.56:253][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.09.29-10.12.56:253][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.09.29-10.12.56:619][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.09.29-10.12.56:622][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.09.29-10.12.56:671][  0]SourceControl: Source control is disabled
+[2020.09.29-10.12.56:671][  0]SourceControl: Source control is disabled
+[2020.09.29-10.12.56:672][  0]SourceControl: Source control is disabled
+[2020.09.29-10.12.56:672][  0]SourceControl: Source control is disabled
+[2020.09.29-10.12.56:673][  0]SourceControl: Source control is disabled
+[2020.09.29-10.12.56:680][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.09.29-10.12.56:681][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.09.29-10.12.56:753][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.09.29-10.12.56:762][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.09.29-10.12.56:762][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.09.29-10.12.56:843][  0]LogOcInput: OculusInput pre-init called
+[2020.09.29-10.12.56:851][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.09.29-10.12.56:851][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.09.29-10.12.56:916][  0]LogEngine: Initializing Engine...
+[2020.09.29-10.12.56:916][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.09.29-10.12.56:917][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.09.29-10.12.57:231][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.09.29-10.12.57:238][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.09.29-10.12.57:256][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.29-10.12.57:256][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.29-10.12.57:256][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.29-10.12.57:256][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.29-10.12.57:256][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.29-10.12.57:256][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.29-10.12.57:256][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.29-10.12.57:257][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.29-10.12.57:257][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.29-10.12.57:257][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.29-10.12.57:278][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.29-10.12.57:278][  0]LogAudioMixer: Display: Name: 50UHD_LCD_TV (NVIDIA High Definition Audio)
+[2020.09.29-10.12.57:278][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.09.29-10.12.57:278][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.29-10.12.57:278][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.29-10.12.57:278][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.29-10.12.57:278][  0]LogAudioMixer: Display: Channel Order:
+[2020.09.29-10.12.57:278][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.29-10.12.57:278][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.09.29-10.12.57:308][  0]LogAudioMixer: Display: Using Audio Device 50UHD_LCD_TV (NVIDIA High Definition Audio)
+[2020.09.29-10.12.57:313][  0]LogInit: FAudioDevice initialized.
+[2020.09.29-10.12.57:313][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.09.29-10.12.57:667][  0]LogDerivedDataCache: Saved boot cache 0.35s 78MB C:/Users/User1/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.09.29-10.12.57:671][  0]LogInit: Texture streaming: Enabled
+[2020.09.29-10.12.57:680][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.09.29-10.12.57:680][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.09.29-10.12.57:681][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.09.29-10.12.57:740][  0]LogInit: Transaction tracking system initialized
+[2020.09.29-10.12.57:749][  0]BlueprintLog: New page: Editor Load
+[2020.09.29-10.12.57:776][  0]LocalizationService: Localization service is disabled
+[2020.09.29-10.12.57:822][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.09.29-10.12.57:823][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.09.29-10.12.58:060][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User1/Documents/Unreal Projects/ZombieProject/Content/' took 0.00s
+[2020.09.29-10.12.58:060][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.09.29-10.12.58:060][  0]LogCook: Display: Mobile HDR setting 1
+[2020.09.29-10.12.58:677][  0]SourceControl: Source control is disabled
+[2020.09.29-10.12.58:677][  0]Cmd: MAP LOAD FILE="../../../../../../Users/User1/Documents/Unreal Projects/ZombieProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.29-10.12.58:677][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/User1/Documents/Unreal Projects/ZombieProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.09.29-10.12.58:677][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.29-10.12.58:677][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.132ms to complete.
+[2020.09.29-10.12.58:677][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.000
+[2020.09.29-10.12.59:002][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.29-10.12.59:009][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.29-10.12.59:016][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.29-10.12.59:023][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.29-10.12.59:042][  0]LogCollectionManager: Loaded 0 collections in 0.002808 seconds
+[2020.09.29-10.12.59:055][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User1/Documents/Unreal Projects/ZombieProject/Saved/Collections/' took 0.00s
+[2020.09.29-10.12.59:055][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User1/Documents/Unreal Projects/ZombieProject/Content/Developers/User1/Collections/' took 0.00s
+[2020.09.29-10.12.59:055][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User1/Documents/Unreal Projects/ZombieProject/Content/Collections/' took 0.00s
+[2020.09.29-10.12.59:055][  0]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 3015 classes and 717 folders.
+[2020.09.29-10.12.59:060][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.09.29-10.13.00:524][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.09.29-10.13.00:529][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.09.29-10.13.00:629][  0]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.09.29-10.13.00:633][  0]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.09.29-10.13.00:655][  0]LogSlate: Took 0.017843 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.09.29-10.13.00:897][  0]LogRenderer: Reallocating scene render targets to support 1160x544 Format 10 NumSamples 1 (Frame:1).
+[2020.09.29-10.13.00:983][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.09.29-10.13.00:983][  0]LogLoad: (Engine Initialization) Total time: 9.66 seconds
+[2020.09.29-10.13.00:983][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.09.29-10.13.01:075][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.09.29-10.13.01:166][  1]LogAssetRegistry: Asset discovery search completed in 6.3726 seconds
+[2020.09.29-10.13.01:169][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2020.09.29-10.19.51:808][250]LogSlate: Took 0.020468 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.29-10.19.53:014][385]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.29-10.19.55:203][385]LogAIModule: Creating AISystem for world Crypt_BSP
+[2020.09.29-10.19.55:224][385]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Crypt_BSP.Crypt_BSP
+[2020.09.29-10.19.55:249][385]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.09.29-10.19.55:251][385]Cmd: MAP LOAD FILE="../../../../../../Users/User1/Documents/Unreal Projects/ZombieProject/Content/Maps/Crypt_BSP.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.29-10.19.55:251][385]LightingResults: New page: Lighting Build
+[2020.09.29-10.19.55:252][385]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2020.09.29-10.19.55:252][385]LoadErrors: New page: Loading map: Crypt_BSP.umap
+[2020.09.29-10.19.55:253][385]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.09.29-10.19.55:253][385]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.29-10.19.55:253][385]MapCheck: New page: Map Check
+[2020.09.29-10.19.55:253][385]LightingResults: New page: Lighting Build
+[2020.09.29-10.19.55:277][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.09.29-10.19.55:410][385]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.29-10.19.55:435][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.09.29-10.19.55:460][385]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.29-10.19.55:460][385]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.142ms to complete.
+[2020.09.29-10.19.55:460][385]LogFileHelpers: Loading map 'Crypt_BSP' took 0.210
+[2020.09.29-10.20.08:482][929]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2020.09.29-10.20.08:912][960]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.09.29-10.21.38:733][542]LogEditorViewport: Clicking Background
+[2020.09.29-10.21.51:913][902]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Crypt_BSP.Crypt_BSP
+[2020.09.29-10.21.51:936][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.09.29-10.21.51:937][902]Cmd: MAP LOAD FILE="../../../../../../Users/User1/Documents/Unreal Projects/ZombieProject/Content/Maps/Crypt_BSP.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.29-10.21.51:938][902]LightingResults: New page: Lighting Build
+[2020.09.29-10.21.51:939][902]LoadErrors: New page: Loading map: Crypt_BSP.umap
+[2020.09.29-10.21.51:941][902]LogWorld: UWorld::CleanupWorld for Crypt_BSP, bSessionEnded=true, bCleanupResources=true
+[2020.09.29-10.21.51:941][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.29-10.21.51:941][902]MapCheck: New page: Map Check
+[2020.09.29-10.21.51:941][902]LightingResults: New page: Lighting Build
+[2020.09.29-10.21.51:967][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.09.29-10.21.51:999][902]LogAIModule: Creating AISystem for world Crypt_BSP
+[2020.09.29-10.21.52:178][902]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.29-10.21.52:205][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.09.29-10.21.52:230][902]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.29-10.21.52:230][902]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.141ms to complete.
+[2020.09.29-10.21.52:230][902]LogFileHelpers: Loading map 'Crypt_BSP' took 0.294
+[2020.09.29-10.21.57:998][569]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2020.09.29-10.21.58:170][584]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.09.29-10.22.00:500][842]Cmd: TRANSACTION UNDO
+[2020.09.29-10.22.00:500][842]LogEditorTransaction: Undo Move Actors
+[2020.09.29-10.22.02:364][ 11]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2020.09.29-10.23.35:909][ 74]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4)
+[2020.09.29-10.23.42:385][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.09.29-10.23.44:001][799]LogSlate: Window 'Delete Assets' being destroyed
+[2020.09.29-10.23.46:395][799]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Assets/polySurface32polySurface31Mat.polySurface32polySurface31Mat
+[2020.09.29-10.23.47:233][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.09.29-10.23.47:255][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.09.29-10.23.47:275][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.09.29-10.23.48:009][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.09.29-10.23.49:599][849]LogSlate: Window 'Delete Assets' being destroyed
+[2020.09.29-10.23.50:985][849]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Assets/polySurface31polySurface33Mat.polySurface31polySurface33Mat
+[2020.09.29-10.23.51:292][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.09.29-10.23.51:316][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.09.29-10.23.51:336][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.09.29-10.23.58:349][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.09.29-10.23.59:976][583]LogSlate: Window 'Delete Assets' being destroyed
+[2020.09.29-10.24.01:254][583]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Assets/Door1Finished_polySurface31polySurface33.Door1Finished_polySurface31polySurface33
+[2020.09.29-10.24.01:519][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.09.29-10.24.01:542][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.09.29-10.24.01:562][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.09.29-10.24.02:492][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.09.29-10.24.03:889][673]LogSlate: Window 'Delete Assets' being destroyed
+[2020.09.29-10.24.06:133][673]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Assets/Door1Finished_polySurface32polySurface31.Door1Finished_polySurface32polySurface31
+[2020.09.29-10.24.06:397][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.09.29-10.24.06:421][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.09.29-10.24.06:441][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.09.29-10.24.21:391][409]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4)
+[2020.09.29-10.24.22:922][591]Cmd: DELETE
+[2020.09.29-10.24.22:922][591]Cmd: ACTOR DELETE
+[2020.09.29-10.24.22:977][591]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.29-10.24.22:998][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.09.29-10.24.23:000][591]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2020.09.29-10.24.23:230][618]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall5)
+[2020.09.29-10.24.23:315][624]Cmd: DELETE
+[2020.09.29-10.24.23:315][624]Cmd: ACTOR DELETE
+[2020.09.29-10.24.23:322][624]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.29-10.24.23:343][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.09.29-10.24.23:344][624]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.09.29-10.25.07:069][144]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\User1\3D Objects\CryptKit/gravecove.obj)
+[2020.09.29-10.25.07:150][144]LogFbx: Loading FBX Scene from C:\Users\User1\3D Objects\CryptKit/gravecove.obj
+[2020.09.29-10.25.07:157][144]LogFbx: FBX Scene Loaded Succesfully
+[2020.09.29-10.25.10:844][144]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.09.29-10.25.10:927][144]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\User1\3D Objects\CryptKit/pillar01.obj)
+[2020.09.29-10.25.10:931][144]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\User1\3D Objects\CryptKit/rockwall.obj)
+[2020.09.29-10.25.10:936][144]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Squarewooddoorframe.obj)
+[2020.09.29-10.25.10:953][144]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Textures/Cryptfloor1_BaseColor_Text.png)
+[2020.09.29-10.25.11:063][144]LogTexture: Display: Building textures: Cryptfloor1_BaseColor_Text (AutoDXT, 2048X2048)
+[2020.09.29-10.25.12:057][144]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Textures/Cryptfloor1_Normal_Text.png)
+[2020.09.29-10.25.12:217][144]LogTexture: Display: Building textures: Cryptfloor1_Normal_Text (BC5, 2048X2048)
+[2020.09.29-10.25.12:487][144]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Textures/Cryptfloor1_OcclusionRoughnessMetallic_Text.png)
+[2020.09.29-10.25.12:708][144]LogTexture: Display: Building textures: Cryptfloor1_OcclusionRoughnessMetallic_Text (AutoDXT, 2048X2048)
+[2020.09.29-10.25.14:458][144]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Textures/Cryptwall1_BaseColor_Text.png)
+[2020.09.29-10.25.14:567][144]LogTexture: Display: Building textures: Cryptwall1_BaseColor_Text (AutoDXT, 2048X2048)
+[2020.09.29-10.25.15:133][144]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Textures/Cryptwall1_Normal_Text.png)
+[2020.09.29-10.25.15:282][144]LogTexture: Display: Building textures: Cryptwall1_Normal_Text (BC5, 2048X2048)
+[2020.09.29-10.25.15:529][144]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Textures/Cryptwall1_OcclusionRoughnessMetallic_Text.png)
+[2020.09.29-10.25.15:686][144]LogTexture: Display: Building textures: Cryptwall1_OcclusionRoughnessMetallic_Text (AutoDXT, 2048X2048)
+[2020.09.29-10.25.17:373][144]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Textures/Cryptwall2_BaseColor_Text.png)
+[2020.09.29-10.25.17:488][144]LogTexture: Display: Building textures: Cryptwall2_BaseColor_Text (AutoDXT, 2048X2048)
+[2020.09.29-10.25.18:065][144]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Textures/Cryptwall2_Normal_Text.png)
+[2020.09.29-10.25.18:209][144]LogTexture: Display: Building textures: Cryptwall2_Normal_Text (BC5, 2048X2048)
+[2020.09.29-10.25.18:462][144]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Textures/Cryptwall2_OcclusionRoughnessMetallic_Text.png)
+[2020.09.29-10.25.18:607][144]LogTexture: Display: Building textures: Cryptwall2_OcclusionRoughnessMetallic_Text (AutoDXT, 2048X2048)
+[2020.09.29-10.25.20:266][144]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Textures/gravecove_BaseColor_Text.png)
+[2020.09.29-10.25.20:350][144]LogTexture: Display: Building textures: gravecove_BaseColor_Text (AutoDXT, 2048X2048)
+[2020.09.29-10.25.20:635][144]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Textures/gravecove_Normal_Text.png)
+[2020.09.29-10.25.20:742][144]LogTexture: Display: Building textures: gravecove_Normal_Text (BC5, 2048X2048)
+[2020.09.29-10.25.20:973][144]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Textures/gravecove_OcclusionRoughnessMetallic_Text.png)
+[2020.09.29-10.25.21:074][144]LogTexture: Display: Building textures: gravecove_OcclusionRoughnessMetallic_Text (AutoDXT, 2048X2048)
+[2020.09.29-10.25.21:893][144]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Textures/RockWall_BaseColor_Text.png)
+[2020.09.29-10.25.22:007][144]LogTexture: Display: Building textures: RockWall_BaseColor_Text (AutoDXT, 2048X2048)
+[2020.09.29-10.25.23:262][144]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Textures/RockWall_Normal_Text.png)
+[2020.09.29-10.25.23:436][144]LogTexture: Display: Building textures: RockWall_Normal_Text (BC5, 2048X2048)
+[2020.09.29-10.25.23:696][144]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Textures/RockWall_OcclusionRoughnessMetallic_Text.png)
+[2020.09.29-10.25.23:847][144]LogTexture: Display: Building textures: RockWall_OcclusionRoughnessMetallic_Text (AutoDXT, 2048X2048)
+[2020.09.29-10.25.25:522][144]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Textures/Squarewooddoorframe_BaseColor_Text.png)
+[2020.09.29-10.25.25:629][144]LogTexture: Display: Building textures: Squarewooddoorframe_BaseColor_Text (AutoDXT, 2048X2048)
+[2020.09.29-10.25.26:575][144]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Textures/Squarewooddoorframe_Normal_Text.png)
+[2020.09.29-10.25.26:714][144]LogTexture: Display: Building textures: Squarewooddoorframe_Normal_Text (BC5, 2048X2048)
+[2020.09.29-10.25.26:956][144]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Textures/Squarewooddoorframe_OcclusionRoughnessMetallic_Text.png)
+[2020.09.29-10.25.27:110][144]LogTexture: Display: Building textures: Squarewooddoorframe_OcclusionRoughnessMetallic_Text (AutoDXT, 2048X2048)
+[2020.09.29-10.25.28:316][144]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\User1\3D Objects\CryptKit/wall01.obj)
+[2020.09.29-10.25.28:321][144]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Wallalcoveleftcorner.obj)
+[2020.09.29-10.25.28:325][144]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Wallalcoverightcorner.obj)
+[2020.09.29-10.25.28:329][144]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\User1\3D Objects\CryptKit/WallDoor1.obj)
+[2020.09.29-10.25.28:333][144]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Wallgravealcove.obj)
+[2020.09.29-10.25.28:337][144]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Wallsewergrate.obj)
+[2020.09.29-10.25.28:341][144]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\User1\3D Objects\CryptKit/wallsquaredoor.obj)
+[2020.09.29-10.25.30:343][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.09.29-10.25.33:586][358]LogSlate: Window 'Delete Assets' being destroyed
+[2020.09.29-10.25.33:748][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.09.29-10.27.31:127][469]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\User1\3D Objects\CryptKit/gravecove.obj)
+[2020.09.29-10.27.31:134][469]LogFbx: Loading FBX Scene from C:\Users\User1\3D Objects\CryptKit/gravecove.obj
+[2020.09.29-10.27.31:136][469]LogFbx: FBX Scene Loaded Succesfully
+[2020.09.29-10.27.46:753][469]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.09.29-10.27.46:990][469]LogMaterial: Display: Missing cached shader map for material pCube19Mat, compiling. 
+[2020.09.29-10.27.47:069][469]LogFbx: Display: Triangulating static mesh pCube19
+[2020.09.29-10.27.47:096][469]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.09.29-10.27.47:096][469]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.09.29-10.27.47:096][469]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.09.29-10.27.47:096][469]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.09.29-10.27.47:102][469]LogStaticMesh: Building static mesh gravecove...
+[2020.09.29-10.27.47:162][469]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/Crypt/CryptKit/gravecove.gravecove
+[2020.09.29-10.27.47:306][469]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\User1\3D Objects\CryptKit/pillar01.obj)
+[2020.09.29-10.27.47:318][469]LogFbx: Loading FBX Scene from C:\Users\User1\3D Objects\CryptKit/pillar01.obj
+[2020.09.29-10.27.47:325][469]LogFbx: FBX Scene Loaded Succesfully
+[2020.09.29-10.27.47:372][469]LogMaterial: Display: Missing cached shader map for material pCube1Mat, compiling. 
+[2020.09.29-10.27.47:388][469]LogFbx: Display: Triangulating static mesh PillarClean01:pCube1
+[2020.09.29-10.27.47:451][469]LogStaticMesh: Building static mesh pillar01...
+[2020.09.29-10.27.47:461][469]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/Crypt/CryptKit/pillar01.pillar01
+[2020.09.29-10.27.47:491][469]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.09.29-10.27.47:534][469]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\User1\3D Objects\CryptKit/rockwall.obj)
+[2020.09.29-10.27.47:545][469]LogFbx: Loading FBX Scene from C:\Users\User1\3D Objects\CryptKit/rockwall.obj
+[2020.09.29-10.27.47:545][469]LogFbx: FBX Scene Loaded Succesfully
+[2020.09.29-10.27.47:555][469]LogMaterial: Display: Missing cached shader map for material pPlane9Mat, compiling. 
+[2020.09.29-10.27.47:568][469]LogFbx: Display: Triangulating static mesh pPlane9
+[2020.09.29-10.27.47:597][469]LogStaticMesh: Building static mesh rockwall...
+[2020.09.29-10.27.47:598][469]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Crypt/CryptKit/rockwall.rockwall
+[2020.09.29-10.27.47:655][469]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Squarewooddoorframe.obj)
+[2020.09.29-10.27.47:663][469]LogFbx: Loading FBX Scene from C:\Users\User1\3D Objects\CryptKit/Squarewooddoorframe.obj
+[2020.09.29-10.27.47:664][469]LogFbx: FBX Scene Loaded Succesfully
+[2020.09.29-10.27.47:674][469]LogMaterial: Display: Missing cached shader map for material pCube18Mat, compiling. 
+[2020.09.29-10.27.47:686][469]LogFbx: Display: Triangulating static mesh pCube18
+[2020.09.29-10.27.47:699][469]LogStaticMesh: Building static mesh Squarewooddoorframe...
+[2020.09.29-10.27.47:704][469]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Crypt/CryptKit/Squarewooddoorframe.Squarewooddoorframe
+[2020.09.29-10.27.47:767][469]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.09.29-10.27.47:798][469]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Textures/Cryptfloor1_BaseColor_Text.png)
+[2020.09.29-10.27.47:951][469]LogTexture: Display: Building textures: Cryptfloor1_BaseColor_Text (AutoDXT, 2048X2048)
+[2020.09.29-10.27.49:071][469]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Textures/Cryptfloor1_Normal_Text.png)
+[2020.09.29-10.27.49:283][469]LogTexture: Display: Building textures: Cryptfloor1_Normal_Text (BC5, 2048X2048)
+[2020.09.29-10.27.49:596][469]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Textures/Cryptfloor1_OcclusionRoughnessMetallic_Text.png)
+[2020.09.29-10.27.49:793][469]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 45
+[2020.09.29-10.27.49:793][469]LogTexture: Display: Building textures: Cryptfloor1_OcclusionRoughnessMetallic_Text (AutoDXT, 2048X2048)
+[2020.09.29-10.27.51:801][469]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2020.09.29-10.27.51:801][469]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2020.09.29-10.27.51:821][469]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Textures/Cryptwall1_BaseColor_Text.png)
+[2020.09.29-10.27.51:988][469]LogTexture: Display: Building textures: Cryptwall1_BaseColor_Text (AutoDXT, 2048X2048)
+[2020.09.29-10.27.52:703][469]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Textures/Cryptwall1_Normal_Text.png)
+[2020.09.29-10.27.52:927][469]LogTexture: Display: Building textures: Cryptwall1_Normal_Text (BC5, 2048X2048)
+[2020.09.29-10.27.53:229][469]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Textures/Cryptwall1_OcclusionRoughnessMetallic_Text.png)
+[2020.09.29-10.27.53:433][469]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2020.09.29-10.27.53:433][469]LogTexture: Display: Building textures: Cryptwall1_OcclusionRoughnessMetallic_Text (AutoDXT, 2048X2048)
+[2020.09.29-10.27.55:294][469]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2020.09.29-10.27.55:294][469]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.09.29-10.27.55:316][469]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Textures/Cryptwall2_BaseColor_Text.png)
+[2020.09.29-10.27.55:461][469]LogTexture: Display: Building textures: Cryptwall2_BaseColor_Text (AutoDXT, 2048X2048)
+[2020.09.29-10.27.56:277][469]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Textures/Cryptwall2_Normal_Text.png)
+[2020.09.29-10.27.56:474][469]LogTexture: Display: Building textures: Cryptwall2_Normal_Text (BC5, 2048X2048)
+[2020.09.29-10.27.56:761][469]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.09.29-10.27.56:761][469]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Textures/Cryptwall2_OcclusionRoughnessMetallic_Text.png)
+[2020.09.29-10.27.56:953][469]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.09.29-10.27.56:953][469]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.09.29-10.27.56:954][469]LogTexture: Display: Building textures: Cryptwall2_OcclusionRoughnessMetallic_Text (AutoDXT, 2048X2048)
+[2020.09.29-10.27.58:808][469]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.09.29-10.27.58:808][469]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.09.29-10.27.58:844][469]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Textures/gravecove_BaseColor_Text.png)
+[2020.09.29-10.27.58:944][469]LogTexture: Display: Building textures: gravecove_BaseColor_Text (AutoDXT, 2048X2048)
+[2020.09.29-10.27.59:230][469]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Textures/gravecove_Normal_Text.png)
+[2020.09.29-10.27.59:340][469]LogTexture: Display: Building textures: gravecove_Normal_Text (BC5, 2048X2048)
+[2020.09.29-10.27.59:565][469]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Textures/gravecove_OcclusionRoughnessMetallic_Text.png)
+[2020.09.29-10.27.59:680][469]LogTexture: Display: Building textures: gravecove_OcclusionRoughnessMetallic_Text (AutoDXT, 2048X2048)
+[2020.09.29-10.28.00:523][469]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Textures/RockWall_BaseColor_Text.png)
+[2020.09.29-10.28.00:653][469]LogTexture: Display: Building textures: RockWall_BaseColor_Text (AutoDXT, 2048X2048)
+[2020.09.29-10.28.01:913][469]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Textures/RockWall_Normal_Text.png)
+[2020.09.29-10.28.02:092][469]LogTexture: Display: Building textures: RockWall_Normal_Text (BC5, 2048X2048)
+[2020.09.29-10.28.02:355][469]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Textures/RockWall_OcclusionRoughnessMetallic_Text.png)
+[2020.09.29-10.28.02:519][469]LogTexture: Display: Building textures: RockWall_OcclusionRoughnessMetallic_Text (AutoDXT, 2048X2048)
+[2020.09.29-10.28.04:184][469]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Textures/Squarewooddoorframe_BaseColor_Text.png)
+[2020.09.29-10.28.04:332][469]LogTexture: Display: Building textures: Squarewooddoorframe_BaseColor_Text (AutoDXT, 2048X2048)
+[2020.09.29-10.28.05:231][469]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Textures/Squarewooddoorframe_Normal_Text.png)
+[2020.09.29-10.28.05:357][469]LogTexture: Display: Building textures: Squarewooddoorframe_Normal_Text (BC5, 2048X2048)
+[2020.09.29-10.28.05:599][469]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Textures/Squarewooddoorframe_OcclusionRoughnessMetallic_Text.png)
+[2020.09.29-10.28.05:697][469]LogTexture: Display: Building textures: Squarewooddoorframe_OcclusionRoughnessMetallic_Text (AutoDXT, 2048X2048)
+[2020.09.29-10.28.06:876][469]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\User1\3D Objects\CryptKit/wall01.obj)
+[2020.09.29-10.28.06:886][469]LogFbx: Loading FBX Scene from C:\Users\User1\3D Objects\CryptKit/wall01.obj
+[2020.09.29-10.28.06:887][469]LogFbx: FBX Scene Loaded Succesfully
+[2020.09.29-10.28.06:897][469]LogMaterial: Display: Missing cached shader map for material pPlane2Mat, compiling. 
+[2020.09.29-10.28.06:911][469]LogFbx: Display: Triangulating static mesh pPlane2
+[2020.09.29-10.28.06:914][469]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.09.29-10.28.06:914][469]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.09.29-10.28.06:914][469]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.09.29-10.28.06:914][469]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.09.29-10.28.06:934][469]LogStaticMesh: Building static mesh wall01...
+[2020.09.29-10.28.06:935][469]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Crypt/CryptKit/wall01.wall01
+[2020.09.29-10.28.06:950][469]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.09.29-10.28.06:963][469]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Wallalcoveleftcorner.obj)
+[2020.09.29-10.28.06:974][469]LogFbx: Loading FBX Scene from C:\Users\User1\3D Objects\CryptKit/Wallalcoveleftcorner.obj
+[2020.09.29-10.28.06:975][469]LogFbx: FBX Scene Loaded Succesfully
+[2020.09.29-10.28.06:996][469]LogMaterial: Display: Missing cached shader map for material polySurface4_polySurface2Mat, compiling. 
+[2020.09.29-10.28.07:012][469]LogFbx: Display: Triangulating static mesh polySurface4_polySurface2
+[2020.09.29-10.28.07:030][469]LogStaticMesh: Building static mesh Wallalcoveleftcorner...
+[2020.09.29-10.28.07:031][469]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Crypt/CryptKit/Wallalcoveleftcorner.Wallalcoveleftcorner
+[2020.09.29-10.28.07:056][469]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Wallalcoverightcorner.obj)
+[2020.09.29-10.28.07:069][469]LogFbx: Loading FBX Scene from C:\Users\User1\3D Objects\CryptKit/Wallalcoverightcorner.obj
+[2020.09.29-10.28.07:070][469]LogFbx: FBX Scene Loaded Succesfully
+[2020.09.29-10.28.07:083][469]LogMaterial: Display: Missing cached shader map for material polySurface3_polySurface2Mat, compiling. 
+[2020.09.29-10.28.07:103][469]LogFbx: Display: Triangulating static mesh polySurface3_polySurface2
+[2020.09.29-10.28.07:169][469]LogStaticMesh: Building static mesh Wallalcoverightcorner...
+[2020.09.29-10.28.07:170][469]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/Crypt/CryptKit/Wallalcoverightcorner.Wallalcoverightcorner
+[2020.09.29-10.28.07:201][469]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\User1\3D Objects\CryptKit/WallDoor1.obj)
+[2020.09.29-10.28.07:215][469]LogFbx: Loading FBX Scene from C:\Users\User1\3D Objects\CryptKit/WallDoor1.obj
+[2020.09.29-10.28.07:216][469]LogFbx: FBX Scene Loaded Succesfully
+[2020.09.29-10.28.07:251][469]LogMaterial: Display: Missing cached shader map for material pPlane1Mat, compiling. 
+[2020.09.29-10.28.07:270][469]LogFbx: Display: Triangulating static mesh pPlane1
+[2020.09.29-10.28.07:297][469]LogStaticMesh: Building static mesh WallDoor1...
+[2020.09.29-10.28.07:298][469]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Crypt/CryptKit/WallDoor1.WallDoor1
+[2020.09.29-10.28.07:328][469]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Wallgravealcove.obj)
+[2020.09.29-10.28.07:339][469]LogFbx: Loading FBX Scene from C:\Users\User1\3D Objects\CryptKit/Wallgravealcove.obj
+[2020.09.29-10.28.07:340][469]LogFbx: FBX Scene Loaded Succesfully
+[2020.09.29-10.28.07:353][469]LogMaterial: Display: Missing cached shader map for material pPlane4Mat, compiling. 
+[2020.09.29-10.28.07:368][469]LogFbx: Display: Triangulating static mesh pPlane4
+[2020.09.29-10.28.07:385][469]LogStaticMesh: Building static mesh Wallgravealcove...
+[2020.09.29-10.28.07:387][469]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Crypt/CryptKit/Wallgravealcove.Wallgravealcove
+[2020.09.29-10.28.07:425][469]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\User1\3D Objects\CryptKit/Wallsewergrate.obj)
+[2020.09.29-10.28.07:439][469]LogFbx: Loading FBX Scene from C:\Users\User1\3D Objects\CryptKit/Wallsewergrate.obj
+[2020.09.29-10.28.07:440][469]LogFbx: FBX Scene Loaded Succesfully
+[2020.09.29-10.28.07:472][469]LogMaterial: Display: Missing cached shader map for material pPlane3Mat, compiling. 
+[2020.09.29-10.28.07:491][469]LogFbx: Display: Triangulating static mesh pPlane3
+[2020.09.29-10.28.07:517][469]LogStaticMesh: Building static mesh Wallsewergrate...
+[2020.09.29-10.28.07:518][469]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Crypt/CryptKit/Wallsewergrate.Wallsewergrate
+[2020.09.29-10.28.07:532][469]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\User1\3D Objects\CryptKit/wallsquaredoor.obj)
+[2020.09.29-10.28.07:545][469]LogFbx: Loading FBX Scene from C:\Users\User1\3D Objects\CryptKit/wallsquaredoor.obj
+[2020.09.29-10.28.07:547][469]LogFbx: FBX Scene Loaded Succesfully
+[2020.09.29-10.28.07:575][469]LogMaterial: Display: Missing cached shader map for material pPlane6Mat, compiling. 
+[2020.09.29-10.28.07:596][469]LogFbx: Display: Triangulating static mesh pPlane6
+[2020.09.29-10.28.07:664][469]LogStaticMesh: Building static mesh wallsquaredoor...
+[2020.09.29-10.28.07:665][469]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/Crypt/CryptKit/wallsquaredoor.wallsquaredoor
+[2020.09.29-10.28.08:059][470]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 90
+[2020.09.29-10.28.08:337][477]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 80
+[2020.09.29-10.28.08:695][502]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 70
+[2020.09.29-10.28.08:790][506]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 60
+[2020.09.29-10.28.11:864][725]LogSlate: Window 'Message Log' being destroyed
+[2020.09.29-10.28.11:873][725]LogSlate: Window 'Message Log' being destroyed
+[2020.09.29-10.28.12:540][773]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 50
+[2020.09.29-10.28.12:691][784]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 40
+[2020.09.29-10.28.13:559][838]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2020.09.29-10.28.13:713][848]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.09.29-10.28.16:364][ 44]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.09.29-10.28.16:679][ 61]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.09.29-10.28.16:989][ 79]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.09.29-10.28.17:417][109]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.09.29-10.28.18:162][168]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.09.29-10.28.18:257][173]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.09.29-10.28.18:274][175]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.09.29-10.28.35:573][968]LogSavePackage: Moving '../../../../../../Users/User1/Documents/Unreal Projects/ZombieProject/Saved/Cryptfloor1_BaseColor_Text9D372AEA4B2D7F991B8EB89EFA45DBC4.tmp' to '../../../../../../Users/User1/Documents/Unreal Projects/ZombieProject/Content/Assets/Crypt/CryptKit/Textures/Cryptfloor1_BaseColor_Text.uasset'
+[2020.09.29-10.28.36:116][968]LogSavePackage: Moving '../../../../../../Users/User1/Documents/Unreal Projects/ZombieProject/Saved/Cryptfloor1_Normal_Text4E1EC2C04449508CD9997D9C4E010A7F.tmp' to '../../../../../../Users/User1/Documents/Unreal Projects/ZombieProject/Content/Assets/Crypt/CryptKit/Textures/Cryptfloor1_Normal_Text.uasset'
+[2020.09.29-10.28.36:748][968]LogSavePackage: Moving '../../../../../../Users/User1/Documents/Unreal Projects/ZombieProject/Saved/Cryptfloor1_OcclusionRoughnessMe11F9018249B7EF97EFBC5FAE8138BB8B.tmp' to '../../../../../../Users/User1/Documents/Unreal Projects/ZombieProject/Content/Assets/Crypt/CryptKit/Textures/Cryptfloor1_OcclusionRoughnessMetallic_Text.uasset'
+[2020.09.29-10.28.37:211][968]LogSavePackage: Moving '../../../../../../Users/User1/Documents/Unreal Projects/ZombieProject/Saved/Cryptwall1_BaseColor_Text23E6E9DC48B3DC535C84F79499A67902.tmp' to '../../../../../../Users/User1/Documents/Unreal Projects/ZombieProject/Content/Assets/Crypt/CryptKit/Textures/Cryptwall1_BaseColor_Text.uasset'
+[2020.09.29-10.28.37:751][968]LogSavePackage: Moving '../../../../../../Users/User1/Documents/Unreal Projects/ZombieProject/Saved/Cryptwall1_Normal_TextAFEFCE48478AE4B97EB39F9BD87DECD2.tmp' to '../../../../../../Users/User1/Documents/Unreal Projects/ZombieProject/Content/Assets/Crypt/CryptKit/Textures/Cryptwall1_Normal_Text.uasset'
+[2020.09.29-10.28.38:354][968]LogSavePackage: Moving '../../../../../../Users/User1/Documents/Unreal Projects/ZombieProject/Saved/Cryptwall1_OcclusionRoughnessMet6E64A43148AB3B9043E60195AFD18254.tmp' to '../../../../../../Users/User1/Documents/Unreal Projects/ZombieProject/Content/Assets/Crypt/CryptKit/Textures/Cryptwall1_OcclusionRoughnessMetallic_Text.uasset'
+[2020.09.29-10.28.38:821][968]LogSavePackage: Moving '../../../../../../Users/User1/Documents/Unreal Projects/ZombieProject/Saved/Cryptwall2_BaseColor_Text2DDD2F964A9B55B41BDD2FA2A95050AE.tmp' to '../../../../../../Users/User1/Documents/Unreal Projects/ZombieProject/Content/Assets/Crypt/CryptKit/Textures/Cryptwall2_BaseColor_Text.uasset'
+[2020.09.29-10.28.39:370][968]LogSavePackage: Moving '../../../../../../Users/User1/Documents/Unreal Projects/ZombieProject/Saved/Cryptwall2_Normal_TextFE6114774633D07A230C59960438C05D.tmp' to '../../../../../../Users/User1/Documents/Unreal Projects/ZombieProject/Content/Assets/Crypt/CryptKit/Textures/Cryptwall2_Normal_Text.uasset'
+[2020.09.29-10.28.39:970][968]LogSavePackage: Moving '../../../../../../Users/User1/Documents/Unreal Projects/ZombieProject/Saved/Cryptwall2_OcclusionRoughnessMetF44580074A98BEC9B2DB5887D10ECC4A.tmp' to '../../../../../../Users/User1/Documents/Unreal Projects/ZombieProject/Content/Assets/Crypt/CryptKit/Textures/Cryptwall2_OcclusionRoughnessMetallic_Text.uasset'
+[2020.09.29-10.28.40:975][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.09.29-10.28.41:053][968]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.29-10.28.41:053][968]LogContentValidation: Display: Validating Texture2D /Game/Assets/Crypt/CryptKit/Textures/Cryptfloor1_BaseColor_Text.Cryptfloor1_BaseColor_Text
+[2020.09.29-10.28.41:053][968]LogContentValidation: Display: Validating Texture2D /Game/Assets/Crypt/CryptKit/Textures/Cryptfloor1_Normal_Text.Cryptfloor1_Normal_Text
+[2020.09.29-10.28.41:053][968]LogContentValidation: Display: Validating Texture2D /Game/Assets/Crypt/CryptKit/Textures/Cryptfloor1_OcclusionRoughnessMetallic_Text.Cryptfloor1_OcclusionRoughnessMetallic_Text
+[2020.09.29-10.28.41:053][968]LogContentValidation: Display: Validating Texture2D /Game/Assets/Crypt/CryptKit/Textures/Cryptwall1_BaseColor_Text.Cryptwall1_BaseColor_Text
+[2020.09.29-10.28.41:053][968]LogContentValidation: Display: Validating Texture2D /Game/Assets/Crypt/CryptKit/Textures/Cryptwall1_Normal_Text.Cryptwall1_Normal_Text
+[2020.09.29-10.28.41:053][968]LogContentValidation: Display: Validating Texture2D /Game/Assets/Crypt/CryptKit/Textures/Cryptwall1_OcclusionRoughnessMetallic_Text.Cryptwall1_OcclusionRoughnessMetallic_Text
+[2020.09.29-10.28.41:053][968]LogContentValidation: Display: Validating Texture2D /Game/Assets/Crypt/CryptKit/Textures/Cryptwall2_BaseColor_Text.Cryptwall2_BaseColor_Text
+[2020.09.29-10.28.41:053][968]LogContentValidation: Display: Validating Texture2D /Game/Assets/Crypt/CryptKit/Textures/Cryptwall2_Normal_Text.Cryptwall2_Normal_Text
+[2020.09.29-10.28.41:053][968]LogContentValidation: Display: Validating Texture2D /Game/Assets/Crypt/CryptKit/Textures/Cryptwall2_OcclusionRoughnessMetallic_Text.Cryptwall2_OcclusionRoughnessMetallic_Text
+[2020.09.29-10.28.47:901][649]LogSavePackage: Moving '../../../../../../Users/User1/Documents/Unreal Projects/ZombieProject/Saved/gravecove_BaseColor_Text35B2156E4B984B7C90D43785DAA2A067.tmp' to '../../../../../../Users/User1/Documents/Unreal Projects/ZombieProject/Content/Assets/Crypt/CryptKit/Textures/gravecove_BaseColor_Text.uasset'
+[2020.09.29-10.28.48:288][649]LogSavePackage: Moving '../../../../../../Users/User1/Documents/Unreal Projects/ZombieProject/Saved/gravecove_Normal_Text9FEFEC414DC76625A3E816AEC61EE51E.tmp' to '../../../../../../Users/User1/Documents/Unreal Projects/ZombieProject/Content/Assets/Crypt/CryptKit/Textures/gravecove_Normal_Text.uasset'
+[2020.09.29-10.28.48:670][649]LogSavePackage: Moving '../../../../../../Users/User1/Documents/Unreal Projects/ZombieProject/Saved/gravecove_OcclusionRoughnessMetaA7E2C33F44046B57FECD2AB91AD9C729.tmp' to '../../../../../../Users/User1/Documents/Unreal Projects/ZombieProject/Content/Assets/Crypt/CryptKit/Textures/gravecove_OcclusionRoughnessMetallic_Text.uasset'
+[2020.09.29-10.28.49:055][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.09.29-10.28.49:115][649]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.29-10.28.49:115][649]LogContentValidation: Display: Validating Texture2D /Game/Assets/Crypt/CryptKit/Textures/gravecove_BaseColor_Text.gravecove_BaseColor_Text
+[2020.09.29-10.28.49:115][649]LogContentValidation: Display: Validating Texture2D /Game/Assets/Crypt/CryptKit/Textures/gravecove_Normal_Text.gravecove_Normal_Text
+[2020.09.29-10.28.49:115][649]LogContentValidation: Display: Validating Texture2D /Game/Assets/Crypt/CryptKit/Textures/gravecove_OcclusionRoughnessMetallic_Text.gravecove_OcclusionRoughnessMetallic_Text
+[2020.09.29-10.28.54:404][107]LogSavePackage: Moving '../../../../../../Users/User1/Documents/Unreal Projects/ZombieProject/Saved/RockWall_BaseColor_TextDB71E2EE4287215E1EFF78917FAC6102.tmp' to '../../../../../../Users/User1/Documents/Unreal Projects/ZombieProject/Content/Assets/Crypt/CryptKit/Textures/RockWall_BaseColor_Text.uasset'
+[2020.09.29-10.28.55:026][107]LogSavePackage: Moving '../../../../../../Users/User1/Documents/Unreal Projects/ZombieProject/Saved/RockWall_Normal_Text191A35AC4FAACFA6CF503685D31466E3.tmp' to '../../../../../../Users/User1/Documents/Unreal Projects/ZombieProject/Content/Assets/Crypt/CryptKit/Textures/RockWall_Normal_Text.uasset'
+[2020.09.29-10.28.55:654][107]LogSavePackage: Moving '../../../../../../Users/User1/Documents/Unreal Projects/ZombieProject/Saved/RockWall_OcclusionRoughnessMetal7F9D51194EEBDEE57799B8B9C930A6D5.tmp' to '../../../../../../Users/User1/Documents/Unreal Projects/ZombieProject/Content/Assets/Crypt/CryptKit/Textures/RockWall_OcclusionRoughnessMetallic_Text.uasset'
+[2020.09.29-10.28.56:024][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.09.29-10.28.56:082][107]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.29-10.28.56:082][107]LogContentValidation: Display: Validating Texture2D /Game/Assets/Crypt/CryptKit/Textures/RockWall_BaseColor_Text.RockWall_BaseColor_Text
+[2020.09.29-10.28.56:082][107]LogContentValidation: Display: Validating Texture2D /Game/Assets/Crypt/CryptKit/Textures/RockWall_Normal_Text.RockWall_Normal_Text
+[2020.09.29-10.28.56:082][107]LogContentValidation: Display: Validating Texture2D /Game/Assets/Crypt/CryptKit/Textures/RockWall_OcclusionRoughnessMetallic_Text.RockWall_OcclusionRoughnessMetallic_Text
+[2020.09.29-10.28.59:759][429]LogSavePackage: Moving '../../../../../../Users/User1/Documents/Unreal Projects/ZombieProject/Saved/Squarewooddoorframe_BaseColor_Te8114997441E98921B9218BB7B371D33A.tmp' to '../../../../../../Users/User1/Documents/Unreal Projects/ZombieProject/Content/Assets/Crypt/CryptKit/Textures/Squarewooddoorframe_BaseColor_Text.uasset'
+[2020.09.29-10.29.00:209][429]LogSavePackage: Moving '../../../../../../Users/User1/Documents/Unreal Projects/ZombieProject/Saved/Squarewooddoorframe_Normal_Text7987CDB44564D8F2E0F872A46800ADB3.tmp' to '../../../../../../Users/User1/Documents/Unreal Projects/ZombieProject/Content/Assets/Crypt/CryptKit/Textures/Squarewooddoorframe_Normal_Text.uasset'
+[2020.09.29-10.29.00:616][429]LogSavePackage: Moving '../../../../../../Users/User1/Documents/Unreal Projects/ZombieProject/Saved/Squarewooddoorframe_OcclusionRou6F05A10E4CEF0747E79CBBA0905717B2.tmp' to '../../../../../../Users/User1/Documents/Unreal Projects/ZombieProject/Content/Assets/Crypt/CryptKit/Textures/Squarewooddoorframe_OcclusionRoughnessMetallic_Text.uasset'
+[2020.09.29-10.29.00:979][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.09.29-10.29.01:039][429]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.29-10.29.01:039][429]LogContentValidation: Display: Validating Texture2D /Game/Assets/Crypt/CryptKit/Textures/Squarewooddoorframe_BaseColor_Text.Squarewooddoorframe_BaseColor_Text
+[2020.09.29-10.29.01:039][429]LogContentValidation: Display: Validating Texture2D /Game/Assets/Crypt/CryptKit/Textures/Squarewooddoorframe_Normal_Text.Squarewooddoorframe_Normal_Text
+[2020.09.29-10.29.01:039][429]LogContentValidation: Display: Validating Texture2D /Game/Assets/Crypt/CryptKit/Textures/Squarewooddoorframe_OcclusionRoughnessMetallic_Text.Squarewooddoorframe_OcclusionRoughnessMetallic_Text
+[2020.09.29-10.29.05:276][823]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.09.29-10.29.44:543][823]LogStats: FPlatformStackWalk::StackWalkAndDump - 39.267 s
+[2020.09.29-10.29.44:543][823]LogOutputDevice: Error: === Handled ensure: ===
+[2020.09.29-10.29.44:543][823]LogOutputDevice: Error: 
+[2020.09.29-10.29.44:543][823]LogOutputDevice: Error: Ensure condition failed: !SeenPaths.Contains(NewPath) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/Misc/RedirectCollector.cpp] [Line: 222]
+[2020.09.29-10.29.44:544][823]LogOutputDevice: Error: Found circular redirect from /Game/Assets/Crypt/CryptKit/Textures/Cryptfloor1_BaseColor_Text.Cryptfloor1_BaseColor_Text to /Game/Assets/Crypt/CryptKit/Textures/Cryptfloor1_BaseColor_Text.Cryptfloor1_BaseColor_Text! Returning None instead
+[2020.09.29-10.29.44:544][823]LogOutputDevice: Error: Stack: 
+[2020.09.29-10.29.44:544][823]LogOutputDevice: Error: [Callstack] 0x00007ffab06f7b80 UE4Editor-CoreUObject.dll!DispatchCheckVerify<bool,<lambda_41a6786c4ee8f959183e16ad2d302706> >() [d:\build\++ue4\sync\engine\source\runtime\core\public\misc\assertionmacros.h:167]
+[2020.09.29-10.29.44:544][823]LogOutputDevice: Error: [Callstack] 0x00007ffab0360c54 UE4Editor-CoreUObject.dll!FRedirectCollector::GetAssetPathRedirection() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\misc\redirectcollector.cpp:222]
+[2020.09.29-10.29.44:544][823]LogOutputDevice: Error: [Callstack] 0x00007ffab032b8e4 UE4Editor-CoreUObject.dll!FRedirectCollector::AddAssetPathRedirection() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\misc\redirectcollector.cpp:184]
+[2020.09.29-10.29.44:544][823]LogOutputDevice: Error: [Callstack] 0x00007ffa8929120e UE4Editor-AssetTools.dll!FAssetRenameManager::RenameReferencingSoftObjectPaths() [d:\build\++ue4\sync\engine\source\developer\assettools\private\assetrenamemanager.cpp:1035]
+[2020.09.29-10.29.44:544][823]LogOutputDevice: Error: [Callstack] 0x00007ffa8927ab94 UE4Editor-AssetTools.dll!FAssetRenameManager::PerformAssetRename() [d:\build\++ue4\sync\engine\source\developer\assettools\private\assetrenamemanager.cpp:1287]
+[2020.09.29-10.29.44:544][823]LogOutputDevice: Error: [Callstack] 0x00007ffa8922de63 UE4Editor-AssetTools.dll!FAssetRenameManager::FixReferencesAndRename() [d:\build\++ue4\sync\engine\source\developer\assettools\private\assetrenamemanager.cpp:426]
+[2020.09.29-10.29.44:544][823]LogOutputDevice: Error: [Callstack] 0x00007ffa89290eb0 UE4Editor-AssetTools.dll!UAssetToolsImpl::RenameAssetsWithDialog() [d:\build\++ue4\sync\engine\source\developer\assettools\private\assettools.cpp:977]
+[2020.09.29-10.29.44:544][823]LogOutputDevice: Error: [Callstack] 0x00007ffa932501fb UE4Editor-ContentBrowser.dll!ContentBrowserUtils::MoveAssets() [d:\build\++ue4\sync\engine\source\editor\contentbrowser\private\contentbrowserutils.cpp:546]
+[2020.09.29-10.29.44:544][823]LogOutputDevice: Error: [Callstack] 0x00007ffa9330b984 UE4Editor-ContentBrowser.dll!SAssetView::ExecuteDropMove() [d:\build\++ue4\sync\engine\source\editor\contentbrowser\private\sassetview.cpp:4909]
+[2020.09.29-10.29.44:544][823]LogOutputDevice: Error: [Callstack] 0x00007ffa933067ff UE4Editor-ContentBrowser.dll!TBaseSPMethodDelegateInstance<0,SAssetView,0,TTypeWrapper<void> __cdecl(TArray<FAssetData,TSizedDefaultAllocator<32> >,TArray<FString,TSizedDefaultAllocator<32> >,FString)>::Execute() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:293]
+[2020.09.29-10.29.44:544][823]LogOutputDevice: Error: [Callstack] 0x00007ffa93310ac2 UE4Editor-ContentBrowser.dll!TBaseSPMethodDelegateInstance<0,SAssetView,0,void __cdecl(TArray<FAssetData,TSizedDefaultAllocator<32> >,TArray<FString,TSizedDefaultAllocator<32> >,FString)>::ExecuteIfSafe() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:369]
+[2020.09.29-10.29.44:544][823]LogOutputDevice: Error: [Callstack] 0x00007ffa93217f30 UE4Editor-ContentBrowser.dll!TBaseDelegate<void,TArray<FAssetData,TSizedDefaultAllocator<32> >,TArray<FString,TSizedDefaultAllocator<32> >,FString>::ExecuteIfBound() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegatesignatureimpl.inl:673]
+[2020.09.29-10.29.44:544][823]LogOutputDevice: Error: [Callstack] 0x00007ffa932180de UE4Editor-ContentBrowser.dll!TBaseFunctorDelegateInstance<void __cdecl(void),<lambda_2d8c3287c5b77e7c61aef3db05e93a45> >::ExecuteIfSafe() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:1002]
+[2020.09.29-10.29.44:544][823]LogOutputDevice: Error: [Callstack] 0x00007ffaa7be25f2 UE4Editor-Slate.dll!SMenuEntryBlock::OnClicked() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\multibox\smenuentryblock.cpp:1068]
+[2020.09.29-10.29.44:544][823]LogOutputDevice: Error: [Callstack] 0x00007ffaa7be8430 UE4Editor-Slate.dll!SMenuEntryBlock::OnMenuItemButtonClicked() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\multibox\smenuentryblock.cpp:1019]
+[2020.09.29-10.29.44:544][823]LogOutputDevice: Error: [Callstack] 0x00007ffaa7bc1b84 UE4Editor-Slate.dll!TBaseSPMethodDelegateInstance<0,SMenuEntryBlock,0,FReply __cdecl(void)>::Execute() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:293]
+[2020.09.29-10.29.44:544][823]LogOutputDevice: Error: [Callstack] 0x00007ffaa7c51498 UE4Editor-Slate.dll!SButton::ExecuteOnClick() [d:\build\++ue4\sync\engine\source\runtime\slate\private\widgets\input\sbutton.cpp:385]
+[2020.09.29-10.29.44:544][823]LogOutputDevice: Error: [Callstack] 0x00007ffaa7c69281 UE4Editor-Slate.dll!SButton::OnMouseButtonUp() [d:\build\++ue4\sync\engine\source\runtime\slate\private\widgets\input\sbutton.cpp:304]
+[2020.09.29-10.29.44:544][823]LogOutputDevice: Error: [Callstack] 0x00007ffaa7be9b95 UE4Editor-Slate.dll!SMenuEntryButton::OnMouseButtonUp() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\multibox\smenuentryblock.cpp:386]
+[2020.09.29-10.29.44:544][823]LogOutputDevice: Error: [Callstack] 0x00007ffaa7ac323f UE4Editor-Slate.dll!FEventRouter::Route<FReply,FEventRouter::FToLeafmostPolicy,FPointerEvent,<lambda_6c1f6b862bcfb82ea6dcab28fbcc9463> >() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:372]
+[2020.09.29-10.29.44:544][823]LogOutputDevice: Error: [Callstack] 0x00007ffaa7b49175 UE4Editor-Slate.dll!FSlateApplication::RoutePointerUpEvent() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:4617]
+[2020.09.29-10.29.44:544][823]LogOutputDevice: Error: [Callstack] 0x00007ffaa7b3413e UE4Editor-Slate.dll!FSlateApplication::ProcessMouseButtonUpEvent() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5140]
+[2020.09.29-10.29.44:544][823]LogOutputDevice: Error: [Callstack] 0x00007ffaa7b28f67 UE4Editor-Slate.dll!FSlateApplication::OnMouseUp() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5108]
+[2020.09.29-10.29.44:544][823]LogOutputDevice: Error: [Callstack] 0x00007ffac6de4ca1 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1958]
+[2020.09.29-10.29.44:544][823]LogOutputDevice: Error: [Callstack] 0x00007ffac6dd242f UE4Editor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:2410]
+[2020.09.29-10.29.44:544][823]LogOutputDevice: Error: [Callstack] 0x00007ffac6de7195 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1638]
+[2020.09.29-10.29.44:544][823]LogOutputDevice: Error: [Callstack] 0x00007ffac6dcec40 UE4Editor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:789]
+[2020.09.29-10.29.44:544][823]LogOutputDevice: Error: [Callstack] 0x00007ffadf295c7d USER32.dll!UnknownFunction []
+[2020.09.29-10.29.44:544][823]LogOutputDevice: Error: [Callstack] 0x00007ffadf295672 USER32.dll!UnknownFunction []
+[2020.09.29-10.29.44:544][823]LogOutputDevice: Error: [Callstack] 0x00007ffac6de8699 UE4Editor-ApplicationCore.dll!FWindowsPlatformApplicationMisc::PumpMessages() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsplatformapplicationmisc.cpp:130]
+[2020.09.29-10.29.44:544][823]LogOutputDevice: Error: [Callstack] 0x00007ff751016db0 UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launchengineloop.cpp:4397]
+[2020.09.29-10.29.44:544][823]LogOutputDevice: Error: [Callstack] 0x00007ff75102c3ec UE4Editor.exe!GuardedMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launch.cpp:173]
+[2020.09.29-10.29.44:544][823]LogOutputDevice: Error: [Callstack] 0x00007ff75102c4ca UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:134]
+[2020.09.29-10.29.44:544][823]LogOutputDevice: Error: [Callstack] 0x00007ff75103ceae UE4Editor.exe!WinMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:263]
+[2020.09.29-10.29.44:544][823]LogOutputDevice: Error: [Callstack] 0x00007ff75103fcbe UE4Editor.exe!__scrt_common_main_seh() [d:\agent\_work\2\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2020.09.29-10.29.44:544][823]LogOutputDevice: Error: [Callstack] 0x00007ffadebb7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.09.29-10.29.44:544][823]LogOutputDevice: Error: [Callstack] 0x00007ffadf6ece51 ntdll.dll!UnknownFunction []
+[2020.09.29-10.29.44:544][823]LogOutputDevice: Error: 
+[2020.09.29-10.29.44:549][823]LogStats:                SubmitErrorReport -  0.000 s
